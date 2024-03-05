@@ -1,7 +1,8 @@
 <h1>Projet : Analyse exploratoire des arbres de la ville de Paris</h1>
 <a href='https://images.unsplash.com/photo-1528578862382-c6652b9bdb1c?q=80&w=2576&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'>
-  <img src='https://images.unsplash.com/photo-1528578862382-c6652b9bdb1c?q=80&w=2576&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='Arbres de Paris' style='width:100;height:150;'>
+  <img src='https://images.unsplash.com/photo-1528578862382-c6652b9bdb1c?q=80&w=2576&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='Arbres de Paris' style='width:100px;height:150px;'>
 </a>
+
 
 <h2>Introduction</h2>
 <p>Ce projet vise à réaliser une analyse exploratoire des données sur les arbres de la ville de Paris, dans le cadre du programme "Végétalisons la ville". L'objectif principal est d'optimiser les tournées pour l'entretien des arbres, ce qui permettra de réduire les trajets et d'améliorer l'efficacité de l'entretien, contribuant ainsi à la préservation de l'environnement urbain.</p>

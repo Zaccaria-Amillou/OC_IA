@@ -1,7 +1,7 @@
 <h1>Projet : Analyse exploratoire des arbres de la ville de Paris</h1>
-<a href='https://images.unsplash.com/photo-1528578862382-c6652b9bdb1c?q=80&w=2576&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'>
+<p align='center><a href='https://images.unsplash.com/photo-1528578862382-c6652b9bdb1c?q=80&w=2576&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'>
   <img src='https://images.unsplash.com/photo-1528578862382-c6652b9bdb1c?q=80&w=2576&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='Arbres de Paris' style='width:500px;height:600px;'>
-</a>
+</a></p>
 
 
 <h2>Introduction</h2>

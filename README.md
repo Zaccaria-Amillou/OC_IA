@@ -15,4 +15,9 @@
       <a href='openfoodfacts/redame.md'>Préparation des données pour un organisme de santé publiquePréparez des données pour un organisme de santé publique</a>
     </h3>
   </li>
+  <li>
+    <h3>
+      <a href='modele_scoring/README.md'>Modèle de scoring</a>
+    </h3>
+  </li>
 </ol>

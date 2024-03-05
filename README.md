@@ -12,7 +12,7 @@
   </li>
   <li>
     <h3>
-      <a href='openfoodfacts/redame.md'>Préparation des données pour un organisme de santé publiquePréparez des données pour un organisme de santé publique</a>
+      <a href='openfoodfacts/redame.md'>Préparation des données pour un organisme de santé publique</a>
     </h3>
   </li>
   <li>

@@ -17,4 +17,16 @@
 </h2>
 <p>
   Michaël, notre manager, nous a fourni un jeu de données comprenant un historique de prêts, des informations financières et des comportements d'emprunteurs. Nous allons préparer les données en effectuant un nettoyage et en réalisant un feature engineering, en construisant notamment de nouvelles variables pour améliorer la prédiction.
-</p>  
+</p>
+<ol>
+  <li>
+    <h3>
+      <a href='modele_scoring/EDA.ipynb'>Notebook EDA</a>
+    </h3>
+  </li>
+  <li>
+    <h3>
+      <a href='modele_scoring/modelisation.ipynb'>Notebook Modèlisation</a> 
+    </h3>
+  </li>
+</ol>

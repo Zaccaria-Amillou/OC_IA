@@ -16,3 +16,7 @@
 <p>
   L'objectif principal de ce projet est de créer un système de suggestion ou d'auto-complétion pour faciliter l'ajout de produits à la base de données Open Food Facts. Actuellement, la saisie des informations nécessite un effort considérable, entraînant parfois des erreurs et des données manquantes. Notre mission consiste à explorer et nettoyer les données existantes pour évaluer la faisabilité de cette nouvelle fonctionnalité.
 </p>
+
+<h3>
+  <a href='openfoodfacts/OCP3nb.ipynb'>Notebook Projet</a>
+</h3>

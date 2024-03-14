@@ -14,7 +14,7 @@
   </li>
   <li>
     <h3>
-      <a href='openfoodfacts/redame.md'>Préparation des données pour un organisme de santé publique</a>
+      <a href='https://github.com/Zaccaria-Amillou/OC_IA/blob/main/openfoodfacts/readme.md'>Préparation des données pour un organisme de santé publique</a>
     </h3>
   </li>
   <li>

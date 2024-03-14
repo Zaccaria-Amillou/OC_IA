@@ -26,7 +26,7 @@
   </li>
   <li>
     <h3>
-      <a href='modele_scoring/modelisation.ipynb'>Notebook Modèlisation</a> 
+      <a href='https://github.com/Zaccaria-Amillou/OC_IA/blob/main/modele_scoring/Modelisation.ipynb'>Notebook Modèlisation</a> 
     </h3>
   </li>
 </ol>

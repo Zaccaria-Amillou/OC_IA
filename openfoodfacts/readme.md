@@ -18,5 +18,5 @@
 </p>
 
 <h3>
-  <a href='openfoodfacts/OCP3nb.ipynb'>Notebook Projet</a>
+  <a href='https://github.com/Zaccaria-Amillou/OC_IA/blob/main/openfoodfacts/OCP3nb.ipynb'>Notebook Projet</a>
 </h3>

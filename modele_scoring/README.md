@@ -21,7 +21,7 @@
 <ol>
   <li>
     <h3>
-      <a href='modele_scoring/EDA.ipynb'>Notebook EDA</a>
+      <a href='https://github.com/Zaccaria-Amillou/OC_IA/blob/main/modele_scoring/EDA.ipynb'>Notebook EDA</a>
     </h3>
   </li>
   <li>

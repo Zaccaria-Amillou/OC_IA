@@ -17,4 +17,4 @@
   <li>Proposer des recommandations pour optimiser les tournées d'entretien des arbres, en réduisant les trajets et en maximisant l'efficacité.</li>
 </ul>
 
-<h2><a href='Arbres_Paris/EDA - Les arbres des Paris.ipynb'>Notebook projet</a></h2>
+<h2><a href='https://github.com/Zaccaria-Amillou/OC_IA/blob/main/Arbres_Paris/EDA%20-%20Les%20arbres%20des%20Paris.ipynb'>Notebook projet</a></h2>
